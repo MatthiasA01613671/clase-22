@@ -18,7 +18,7 @@ def user_input_features():
 
 
   user_input_data = {'AGE': Edad,
-                     'GENDER (1=M)': Género,
+                     'GENDER (1=M)': Genero,
                      'HEIGHT': Altura,
                      'WAIST': Cintura,
                      'ARM CIRC': Brazo,
